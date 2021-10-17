@@ -1,0 +1,6 @@
+C:\Users\shgalvis\source\repos\Factura\FacturaDto\bin\Debug\FacturaDto.dll
+C:\Users\shgalvis\source\repos\Factura\FacturaDto\bin\Debug\FacturaDto.pdb
+C:\Users\shgalvis\source\repos\Factura\FacturaDto\obj\Debug\FacturaDto.csproj.AssemblyReference.cache
+C:\Users\shgalvis\source\repos\Factura\FacturaDto\obj\Debug\FacturaDto.csproj.CoreCompileInputs.cache
+C:\Users\shgalvis\source\repos\Factura\FacturaDto\obj\Debug\FacturaDto.dll
+C:\Users\shgalvis\source\repos\Factura\FacturaDto\obj\Debug\FacturaDto.pdb
